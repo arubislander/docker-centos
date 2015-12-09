@@ -6,7 +6,7 @@ RUN yum install -y \
    automake \
    gcc \
    gcc-c++ \
-   glibc-devel.i686
+   glibc-devel.i686 \
    libgcc.i686
    libstdc++.i686 \
    make \
