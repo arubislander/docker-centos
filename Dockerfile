@@ -7,7 +7,7 @@ RUN yum install -y \
    gcc \
    gcc-c++ \
    glibc-devel.i686 \
-   libgcc.i686
+   libgcc.i686 \
    libstdc++.i686 \
    make \
    nano \
