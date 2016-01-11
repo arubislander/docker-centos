@@ -2,8 +2,6 @@
 
 [![Docker Stars](https://img.shields.io/docker/stars/arubislander/centos.svg)](https://hub.docker.com/r/arubislander/centos/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/arubislander/centos.svg)](https://hub.docker.com/r/arubislander/centos/)
-[![ImageLayers Size](https://img.shields.io/imagelayers/image-size/arubislander/centos.svg)](https://hub.docker.com/r/arubislander/centos/)
-[![ImageLayers Layers](https://img.shields.io/imagelayers/layers/arubislander/centos.svg)](https://hub.docker.com/r/arubislander/centos/)
 
 Dockerfile for CentOS container for development purposes
 
