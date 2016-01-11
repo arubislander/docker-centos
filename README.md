@@ -1,7 +1,7 @@
 # docker-centos
 Dockerfile for CentOS container for development purposes
 
-[Build Status]
+[![Build Status]]
 
 This image comes with the following packages preinstalled:
 `automake
